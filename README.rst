@@ -129,7 +129,7 @@ Usage
 Python API
 ----------
 
-See the `wiki <https://github.com/faiz007t/speedtest-cli/wiki>`_.
+See the `wiki <https://github.com/sivel/speedtest-cli/wiki>`_.
 
 
 Inconsistency
